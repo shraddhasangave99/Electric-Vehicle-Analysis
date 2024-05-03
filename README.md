@@ -11,7 +11,8 @@ Electric vehicles (EVs)🚗 are at the forefront of the transition to cleaner tr
 ▫️ Downloaded the data from the [DATA.GOV](https://data.gov/) . Used CSV file which is further connected with Power BI to analyze it.
 
 ▫️ Conduct an in-depth examination of electric vehicles and associated infrastructure. And analyzed EV performance metrics, and market 
-  dynamics in Power BI.
+    dynamics in Power BI.
 
- ▫️ Delivering comprehensive reports, interactive visualizations
+ ▫️ Delivering comprehensive reports, interactive visualizations and empowered with insights to drive sustainable transportation 
+     strategies.
 
